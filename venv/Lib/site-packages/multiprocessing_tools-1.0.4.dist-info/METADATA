@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: multiprocessing-tools
+Version: 1.0.4
+Summary: Simplified Python functions for multithreaded mapping and filtering
+Home-page: https://github.com/smwa/multiprocessing_tools
+Author: Michael Smith
+Author-email: michael.smith.ok@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
+
+# Multiprocessing_Tools
+This is a set of tools to simplify the usage of Python's multiprocessing tools
+
+`pip install multiprocessing-tools`
+
+See test_tools.py for example usage
+
+

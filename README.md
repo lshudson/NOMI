@@ -1,7 +1,7 @@
 # NOMI
 Neurally Operated Musical Instrument
 
-![image](/Users/leilahudson/Downloads/NOMI.png)
+![alt text](files/Users/leilahudson/Downloads/NOMI.png)
 
 The Neurally Operated Musical Instrument (NOMI) is a neurofeedback software which allows users to create music by altering and learning to control their brain state. NOMI comes with a GUI designed with QT designer and can be interfaced with a variety of headsets compatible with the Brainflow python package. The Brainflow python package also allows for simple implementations of sophisticated methods. NOMI consists of three core parts: a board communicator, a real-time EEG stream analyzer and a music generator. In order to ensure timely updates, the EEG stream is run on a separate thread than the music generation via python’s threading library. 
 
